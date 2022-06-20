@@ -1,5 +1,5 @@
 <h1 align="left">API Clima</h1>
-<p align="left">Aplicação para visualisar dados metorológicos da cidade pesquisada</p>
+<p align="left">Aplicação para visualisar dados meteorológicos da cidade pesquisada</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
