@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a página bastar clicar no seguinte link: ---
+Para acessar a página basta clicar no seguinte link: ---
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
